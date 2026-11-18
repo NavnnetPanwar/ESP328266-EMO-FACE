@@ -5,3 +5,5 @@ Esp328266 used as microcontroller , 2.8inch tft used for display (ST7789)
 
 #Upload Esp328266.ino to esp328266 microcontroller 
 Install usb2012x to allow usb to code in esp328266 
+
+https://arduino.esp8266.com/stable/package_esp8266com_index.json install this to preferences
